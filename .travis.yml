@@ -15,9 +15,7 @@ gemfile:
   - gemfiles/activerecord_5.1.gemfile
   - gemfiles/activerecord_5.0.gemfile
   - gemfiles/activerecord_4.2.gemfile
-  - gemfiles/sinatra_1.0.gemfile
-  - gemfiles/sinatra_1.4.gemfile
-  - gemfiles/sinatra_2.0.gemfile
+  - gemfiles/sinatra_4.2.gemfile
 
 before_install:
   - gem update --system
